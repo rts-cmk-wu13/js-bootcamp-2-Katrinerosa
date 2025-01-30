@@ -1,4 +1,16 @@
-const x = function (a, b) {
-  return a * b;
-};
-document.getElementById("demo").innerHTML = x(4, 3);
+
+
+
+function skjulElementerViaCssSelector(cssSelector){
+
+
+let element = document.querySelector(cssSelector)
+skjulElementerViaCssSelector(element)
+
+
+
+}
+
+function skjulElement (".headline") {
+  if(element != null) element.style.display = "none"
+}

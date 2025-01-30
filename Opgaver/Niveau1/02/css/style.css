@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.picture {
+    margin-left: 100px;
+  padding: 0 auto;
+  max-width: 200px;
+  height: 100px;
+  overflow: hidden;
+}
