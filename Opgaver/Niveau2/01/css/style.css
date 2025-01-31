@@ -52,3 +52,7 @@ label {
 #buttons button:focus {
 	outline: none;
 }
+#buttons button.active {
+	background-color: yellow; /* Skift farve for den valgte knap */
+	color: black;
+}
