@@ -53,6 +53,6 @@ label {
 	outline: none;
 }
 #buttons button.active {
-	background-color: yellow; /* Skift farve for den valgte knap */
+	background-color: #7f7; /* Skift farve for den valgte knap */
 	color: black;
 }
